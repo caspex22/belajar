@@ -14,7 +14,7 @@
 </head>
 <body>
     <div class="container">
-        <h2 align="center"><span class="badge badge-info">Data Buku</span></h2>
+        <h1 align="center"><span class="badge badge-info">Data Buku</span></h1>
         <a href="tambah.php" class="badge badge-info lg">Tambah Data Buku</a>
             <table class="table">
                 <thead class="thead-light">
